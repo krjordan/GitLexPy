@@ -9,6 +9,7 @@ Generate intelligent commit messages for your Git changes using AI. GitLex uses 
 - [Prerequisites](#prerequisites)
 - [Usage](#usage)
 - [API Key Configuration](#api-key-configuration)
+- [Roadmap](#roadmap-🗺️✨)
 - [Development Workflow](#development-workflow)
 - [Contributing](#contributing)
 - [License](#license)
@@ -60,6 +61,10 @@ For `GitLexPy` to work, you'll need an OpenAI API key.
 
 > ⚠️ **Note:** Never share your API key or commit it directly to your codebase.
 
+## Roadmap 🗺️✨
+
+Let's make your commit messages smarter and your Git workflow smoother. Here's a look into what we're planning for the future. Feedback, contributions, and suggestions are always welcome! Take a look at the `ROADMAP` file for the deets!
+
 ## Development Workflow 🛠
 
 We follow the gitflow workflow. Here's a quick breakdown:
@@ -70,7 +75,7 @@ We follow the gitflow workflow. Here's a quick breakdown:
 
 ## Contributing 🤝
 
-Contributions are welcome! Whether it's bug reports, feature requests, or new integrations, we'd love to see what you can come up with.
+Contributions are welcome! Whether it's bug reports, feature requests, or new integrations, we'd love to see what you can come up with. Check out the `CONTRIBUTING` file for more details.
 
 1. Fork the repository.
 2. Make your changes on a new branch.
